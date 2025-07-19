@@ -1,0 +1,13 @@
+# Godot-specific
+.import/
+.export/
+*.import
+*.godot-export
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# (Optional) compiled builds or binaries
+build/
+bin/
